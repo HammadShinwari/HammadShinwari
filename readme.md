@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Frontend Developer from Pakistan</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadshinwari&label=Profile%20views&color=0e75b6&style=flat" alt="hammadshinwari" /> </p>
-<img align="right" width="400px" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgithub.com%2Frudrabarad%2FGifs&psig=AOvVaw0ZZ8SIk5-DSPXtH8jvWjQv&ust=1711109987703000&source=images&cd=vfe&opi=89978449&ved=0CBEQjRxqFwoTCMDd8LyrhYUDFQAAAAAdAAAAABAE"/>
+<img align="right" width="400px" src="https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif"/>
 
 - 🌱 I’m currently learning **Full Stack Development from SMIT**
 
