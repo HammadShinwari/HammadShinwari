@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hammadshinwari&label=Profile%20views&color=0e75b6&style=flat" alt="hammadshinwari" /> </p>
 <img align="right" width="400px" src="https://i.pinimg.com/550x/54/e3/7d/54e37d8074ebcde1d96c77d7b2a7f310.jpg"/>
 
-- 🌱 I’m currently learning **Full Stack Development from SMIT**
+- 🌱 I’m currently learning **MERN Stack Development from SMIT**
 
 - 👨‍💻 All of my projects are available at [https://shinwari-portfolio.netlify.app/](https://shinwari-portfolio.netlify.app/)
 
