@@ -6,9 +6,7 @@
 
 - 🌱 I’m currently learning **Full Stack Development from SMIT**
 
-- 👨‍💻 All of my projects are available at [https://shinwari-portfolio.netlify.app/](https://shinwari-portfolio.netlify.app/)
-
-- 💬 Ask me about **HTML, CSS, Javascript, ReactJS, Firebase, Bootstrap, Tailwand CSS, Material UI**
+- 💬 Ask me about **HTML, CSS, Javascript, ReactJS, Firebase, Bootstrap, Tailwand CSS**
 
 - 📫 How to reach me **Hammadkhanshinwari4477@gmail.com**
 
